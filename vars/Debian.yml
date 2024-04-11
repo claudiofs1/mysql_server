@@ -1,0 +1,7 @@
+---
+packages_debian:
+  - python-apt
+  - python-pymysql
+  - python3-pymysql
+  - python-mysqldb
+  - mariadb-server
